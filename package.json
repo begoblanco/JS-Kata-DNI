@@ -10,7 +10,8 @@
   "author": "bego",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "vitest": "^2.0.3"
   },
   "devDependencies": {
     "@types/prompt-sync": "^4.2.3"

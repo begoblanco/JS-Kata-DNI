@@ -1,5 +1,5 @@
 import promptSync from "prompt-sync";
-import { DNI } from "./src/js/DNI.js";
+import { DNI } from "./src/js/dni.js";
 
 const prompt = promptSync();
 
