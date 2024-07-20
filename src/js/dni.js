@@ -1,4 +1,4 @@
-import { letters } from "./LetterList";
+import { letters } from "./LetterList.js";
 
 export class DNI {
     constructor(num) {
