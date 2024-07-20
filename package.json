@@ -1,0 +1,11 @@
+{
+  "name": "js-kata-dni",
+  "version": "1.0.0",
+  "description": "Calcula la letra del DNI (Documento nacional de identidad).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bego",
+  "license": "ISC"
+}
